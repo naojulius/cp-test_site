@@ -1,30 +1,203 @@
 {
-    "data": [
+    "id": "Q1000053",
+    "caption": "Vasily Nebenzya",
+    "schema": "Person",
+    "properties": {
+      "keywords": [
+        "National government"
+      ],
+      "name": [
+        "Vasily Nebenzya"
+      ],
+      "topics": [
+        "role.pep"
+      ],
+      "positionOccupancies": [
         {
-            "id": "36",
-            "firstName": "LOVANIAINA , ROLAND      , HERINJAKA                           ",
-            "dateOfBirth": null,
-            "idenity": null,
-            "alias": null,
-            "address": null,
-            "country": null,
-            "comment": null,
-            "type": "Entity",
-            "source": "Treasury",
-            "url": "https://www.treasury.gov/ofac/downloads/sdn.xml"
+          "id": "wd-56474693656adb460a50a9c4c85733ce643a2940",
+          "caption": "Occupancy",
+          "schema": "Occupancy",
+          "properties": {
+            "startDate": [
+              "2017-07-27"
+            ],
+            "post": [
+              {
+                "id": "Q4374313",
+                "caption": "Permanent Representative of Russia to the United Nations",
+                "schema": "Position",
+                "properties": {
+                  "wikidataId": [
+                    "Q4374313"
+                  ],
+                  "name": [
+                    "Permanent Representative of Russia to the United Nations"
+                  ]
+                },
+                "referents": [],
+                "datasets": [
+                  "wd_peps"
+                ],
+                "first_seen": "2023-09-08T07:00:40",
+                "last_seen": "2024-04-12T18:48:01",
+                "last_change": "2023-12-14T10:12:45",
+                "target": false
+              }
+            ],
+            "status": [
+              "unknown"
+            ],
+            "holder": [
+              "Q1000053"
+            ]
+          },
+          "referents": [],
+          "datasets": [
+            "wd_peps"
+          ],
+          "first_seen": "2023-09-08T07:00:40",
+          "last_seen": "2024-04-12T18:48:01",
+          "last_change": "2023-09-08T07:00:40",
+          "target": false
+        }
+      ]
+    },
+    "referents": [
+      "ua-nazk-person-23188",
+      "us-cia-russia-vasiliy-alekseyevich-nebenzya-permanent-representative-to-the-un-new-york"
+    ],
+    "datasets": [
+      "wd_peps"
+    ],
+    "first_seen": "2023-04-20T10:30:17",
+    "last_seen": "2024-04-12T18:48:01",
+    "last_change": "2023-04-20T10:30:17",
+    "target": true
+  },
+  {
+    "id": "Q100057869",
+    "caption": "Stephanie Summerow Dumas",
+    "schema": "Person",
+    "properties": {
+      "country": [
+        "us"
+      ],
+      "keywords": [
+        "State government",
+        "Local government"
+      ],
+      "name": [
+        "Stephanie Summerow Dumas"
+      ],
+      "topics": [
+        "role.pep"
+      ],
+      "positionOccupancies": [
+        {
+          "id": "wd-c1002ea198157c38b91828e69e32514c28b841ca",
+          "caption": "Occupancy",
+          "schema": "Occupancy",
+          "properties": {
+            "post": [
+              {
+                "id": "Q17502533",
+                "caption": "Ohio state representative",
+                "schema": "Position",
+                "properties": {
+                  "name": [
+                    "Ohio state representative"
+                  ],
+                  "wikidataId": [
+                    "Q17502533"
+                  ],
+                  "country": [
+                    "us"
+                  ]
+                },
+                "referents": [],
+                "datasets": [
+                  "wd_peps"
+                ],
+                "first_seen": "2023-09-08T07:00:40",
+                "last_seen": "2024-04-12T18:48:01",
+                "last_change": "2023-12-14T10:12:45",
+                "target": false
+              }
+            ],
+            "holder": [
+              "Q100057869"
+            ],
+            "status": [
+              "unknown"
+            ]
+          },
+          "referents": [],
+          "datasets": [
+            "wd_peps"
+          ],
+          "first_seen": "2023-09-08T07:00:40",
+          "last_seen": "2024-04-12T18:48:01",
+          "last_change": "2023-09-08T07:00:40",
+          "target": false
         },
         {
-            "id": "173",
-            "firstName": " ",
-            "dateOfBirth": null,
-            "idenity": null,
-            "alias": null,
-            "address": null,
-            "country": null,
-            "comment": null,
-            "type": "Entity",
-            "source": "Treasury",
-            "url": "https://www.treasury.gov/ofac/downloads/sdn.xml"
-        },
-    ]
-}
+          "id": "wd-cb4e866fd76197f1ad4a372e0765752c6d45b8b4",
+          "caption": "Occupancy",
+          "schema": "Occupancy",
+          "properties": {
+            "status": [
+              "unknown"
+            ],
+            "post": [
+              {
+                "id": "Q111367267",
+                "caption": "Hamilton County Commissioner",
+                "schema": "Position",
+                "properties": {
+                  "wikidataId": [
+                    "Q111367267"
+                  ],
+                  "name": [
+                    "Hamilton County Commissioner"
+                  ],
+                  "country": [
+                    "us"
+                  ]
+                },
+                "referents": [],
+                "datasets": [
+                  "wd_peps"
+                ],
+                "first_seen": "2024-03-26T12:48:01",
+                "last_seen": "2024-04-12T18:48:01",
+                "last_change": "2024-03-26T12:48:01",
+                "target": false
+              }
+            ],
+            "holder": [
+              "Q100057869"
+            ],
+            "startDate": [
+              "2019-01-03"
+            ]
+          },
+          "referents": [],
+          "datasets": [
+            "wd_peps"
+          ],
+          "first_seen": "2024-03-26T12:48:01",
+          "last_seen": "2024-04-12T18:48:01",
+          "last_change": "2024-03-26T12:48:01",
+          "target": false
+        }
+      ]
+    },
+    "referents": [],
+    "datasets": [
+      "wd_peps"
+    ],
+    "first_seen": "2023-04-20T10:30:17",
+    "last_seen": "2024-04-12T18:48:01",
+    "last_change": "2024-03-26T12:48:01",
+    "target": true
+  }
